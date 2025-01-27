@@ -1,0 +1,6 @@
+//sin parametros
+@mixin button-styles($padding, $border-radius, $bg-color) {
+    padding: $padding;
+    border-radius: $border-radius;
+    background-color: $bg-color;
+  };
